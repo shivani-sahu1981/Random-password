@@ -21,3 +21,20 @@ body{
     border-radius: 10px 80px;
     box-shadow: 0 0 20px yellow;
 }
+
+p{
+    font-size: 25px;
+    font-style: sans-sarif;
+    font-weight: 900;
+}
+
+.input{
+    padding-top: 20px;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+   
+}
