@@ -53,4 +53,7 @@ button{
     outline: none;
 }
 
+button:hover{
+    background-color: grey;
+}
   
